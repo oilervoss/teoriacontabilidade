@@ -1,2 +1,1 @@
-* First Author, Second Author. 2014. [My First Article](https://example.com/articles/1).
-* First Author, Second Author. 2015. [My Second Article](https://example.com/articles/2).
+* Stiglitz JE., Walsh CE. 2003. [Introdução à Macroeconomia](https://books.google.com.br/books/about/Introdu%C3%A7%C3%A3o_%C3%A0_macroeconomia.html).

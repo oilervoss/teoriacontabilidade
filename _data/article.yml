@@ -2,9 +2,9 @@
 # identifiers (starting with "&") are referenced later (starting with "*")
 
 title: "My First Article"
-date: 2015-03-15T12:00:00Z
+date: 2015-10-18T12:00:00Z
 doi: # e.g. 10.1234/example.1
-github: oilervoss/paper-now# e.g. user-name/paper-now
+github: oilervoss/introducaomacroeconomia # e.g. user-name/paper-now
 
 authors:
   - &euler-alves
@@ -14,10 +14,6 @@ authors:
     url: https://alves.pro.br
     orcid: "0000-0002-6059-4555"
 
-#  - &bob-exemplar
-#    id: "bob-exemplar"
-#    name: "Bob Exemplar"
-#    orcid: "0000-0002-9341-7985"
 
 affiliations:
   - name: "Fundação Pedro Leopoldo"
@@ -27,49 +23,7 @@ affiliations:
     members:
       - *euler-alves
 
-#  - name: "Harvard University"
-#    department: "Department of Molecular and Cellular Biology"
-#    location: "Cambridge, MA, USA"
-#    members:
-#      - *alice-exemplar
-
-#funders:
-#  - name: "Medical Research Council"
-#    sameAs: "http://doi.org/10.13039/501100000265"
-#    awards:
-#      - name: MRC123
-#        recipients:
-#          - *alice-exemplar
-#          - *bob-exemplar
-#      - name: MRC456
-#        recipients:
-#          - *alice-exemplar
-#          - *bob-exemplar
-
-#  - name: "National Institutes of Health"
-#    url: http://www.nih.gov/
-#    sameAs: "http://doi.org/10.13039/100000002"
-#    awards:
-#      - name: NIH123
-#        recipients:
-#          - *alice-exemplar
-
 contributions:
-  - name: "Methodology"
-    url: http://dictionary.casrai.org/Contributor_Roles/Methodology
-    contributors:
-      - *euler-alves
-
-  - name: "Investigation"
-    url: http://dictionary.casrai.org/Contributor_Roles/Investigation
-    contributors:
-      - *euler-alves
-
-  - name: "Formal analysis"
-    url: http://dictionary.casrai.org/Contributor_Roles/Formal_analysis
-    contributors:
-      - *euler-alves
-
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
     contributors:
