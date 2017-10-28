@@ -1,10 +1,10 @@
 # Note: to avoid repeating the same data multiple times,
 # identifiers (starting with "&") are referenced later (starting with "*")
 
-title: "Introdução a macroeconomia"
-date: 2017-10-18T12:00:00Z
-doi: 10.5281/zenodo.1034438
-github: oilervoss/introducaomacroeconomia # e.g. user-name/paper-now
+title: "Teoria da Contabilidade"
+date: 2017-10-26T12:00:00Z
+doi:
+github: oilervoss/teoriacontabilidade # e.g. user-name/paper-now
 
 authors:
   - &euler-alves
